@@ -1,6 +1,8 @@
 LIST OF MEMBERS FOR TEAM 7
 
-MICHAEL SAVOULIDIS-----> is the best
+MICHAEL SAVOULIDIS
+Role: team leader
+prefered branch: Mechanical Engineering
 
 PHILIP LIM
 
