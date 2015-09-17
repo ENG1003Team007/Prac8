@@ -1,8 +1,11 @@
 LIST OF MEMBERS FOR TEAM 7
 
 MICHAEL SAVOULIDIS
+Role: team leader
+prefered branch: Mechanical Engineering
 
 PHILIP LIM
+-helo
 
 QIXIN HE 
 
